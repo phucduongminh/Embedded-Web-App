@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "App01": "file:",
     "react": "18.2.0",
     "react-native": "0.71.7",
+    "react-native-splash-screen": "^3.3.0",
     "react-native-webview": "^13.12.3"
   },
   "devDependencies": {
